@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class Programa04 {
-
+    
     public static void main(String[] args) {
         DAOEmpleado daoEmpleado=new DAOEmpleado();
         Empleado emp=new Empleado(1, "Aldo", "Calle1", "12345");
@@ -32,3 +32,7 @@ public class Programa04 {
         
     }
 }
+
+/*
+#Eye with hard-code    
+*/
